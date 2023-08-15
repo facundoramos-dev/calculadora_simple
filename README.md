@@ -44,7 +44,7 @@ Una vez que hayas presionado "Calcular", verás el resultado de la operación en
 - Si observas mensajes de error, asegúrate de revisar los valores ingresados y la operación seleccionada para corregir cualquier error.
 - La calculadora te brindará indicaciones si cometes algún error, como ingresar valores no numéricos o dividir por cero.
 
-**\*¡Listo!** Ahora estás listo para usar la Calculadora Web y realizar operaciones matemáticas de manera rápida y fácil. Si tienes alguna pregunta o encuentras algún problema, no dudes en consultar a alguno de nuestros expertos o enviar tus dudas a facundoramos.dev@gmail.com.*
+_**¡Listo!** Ahora estás listo para usar la Calculadora Web y realizar operaciones matemáticas de manera rápida y fácil. Si tienes alguna pregunta o encuentras algún problema, no dudes en consultar a alguno de nuestros expertos o enviar tus dudas a facundoramos.dev@gmail.com._
 
 _¡Disfruta calculando!_
 
