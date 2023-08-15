@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="assets/css/index.css" />
+    <title>Calculadora</title>
+  </head>
+
+  <body>
+    <main>
+      <div class="container">
+        <div class="sub__container">
+          <div>
+            <input name="number1" type="text" placeholder="Operando 1" />
+            <p id="number1error" class="error"></p>
+          </div>
+          <select name="operation" id="options">
+            <option value="1">+</option>
+            <option value="2">-</option>
+            <option value="3">*</option>
+            <option value="4">/</option>
+            <option value="5">^</option>
+            <option value="6">MIN</option>
+            <option value="7">MAX</option>
+          </select>
+          <div>
+            <input name="number2" type="text" placeholder="Operando 2" />
+            <p id="number2error" class="error"></p>
+          </div>
+        </div>
+        <div class="sub__container2">
+          <button type="button" onclick="handleReset()">Limpiar</button>
+          <button type="button" onclick="handleOperation()">Calcular</button>
+        </div>
+        <div class="sub__container3">
+          <input
+            id="resultOperation"
+            type="text"
+            disabled
+            placeholder="Resultado"
+          />
+          <p id="number3error" class="error"></p>
+        </div>
+      </div>
+    </main>
+
+    <script src="assets/js/index.js"></script>
+  </body>
+</html>
